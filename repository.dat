@@ -33,7 +33,7 @@
 		["Gestion d'écoles","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/SchoolGest.gcx","tk",undefined,undefined,"3"],
 		["Tableaux Redmine","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/Redmine_Tabler.gcx","tk","20.png","A tool to turn csv files into Redmine table text!","2"],
 		["GCA App Compiler","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/GCA_Maker.gcx","tk","21.png","A tool to create executable apps!","2"],
-		["Offuscator","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/Offuscator.gcx","tk","22.png","A tool to hide your scripts!","2"],
+		["Offuscator","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/Obffuscator.gcx","tk","22.png","A tool to hide your scripts!","2"],
 		["HashFile","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/HashFile.gcx","tk","24.png","A tool to hash your files!","2"],
 		["Project Cost Estimation","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/EstiPro.gcx","tk",undefined,"A tool to check your project's costs!","2"],
 		["Ini files renamer","https://raw.githubusercontent.com/racine890/GCX-REPO/master/app/IFR.gcx","tk","25.png","A tool to rename PGE pokemon ini files!","2"],
