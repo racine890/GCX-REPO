@@ -1,4 +1,4 @@
-# GCX-REPOSIORY
+# GCX-REPOSITORY
 
 <b>REPOSITORY OF REMOTE GCX APPS FOR GC LAUNCHER</b><br/>
 Here, we store packages that are used by our desktop Launcher app to download and install automatically some gcx apps created by <a href="https://gcenterburkina.000webhostapp.com/sys_pages/page_doc.php?id=1">GC Tk</a> .<br/><br/>
